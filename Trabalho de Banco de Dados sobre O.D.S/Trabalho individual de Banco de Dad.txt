@@ -1,0 +1,7 @@
+Trabalho individual de Banco de Dados
+
+
+TEMA 1: Overbooking em posto de saúde ( Estão marcando 2 consultas ao mesmo tempo com o mesmo médico ou com diferença de 5 minutos por consulta) saúde
+TEMA 2: Falta de controle com as placas solares ( Falta de limpeza, manutenção, perda de dados do cliente ) Energia limpa e Acessível
+TEMA 3: MAPEAMENTO DE AREAS EM CONDIÇÔES PRECARIAS( mapear as áreas com condições precária de agricultores  não sustentáveis e pobreza extrema e dar informações de mercados de preço baixa) Fome zero e Agricultura Sustentável	
+
